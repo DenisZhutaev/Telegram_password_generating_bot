@@ -13,8 +13,8 @@ import string
 
 
 # Укажите здесь токен вашего бота
-# TOKEN = 'YOUR_TOKEN_HERE'
-TOKEN = "5640107001:AAETbZtZyHaeeTzeRe4l4Q6bAOlTkZJaqis"
+TOKEN = 'YOUR_TOKEN_HERE'
+
 
 # Создаем объект бота
 bot = telebot.TeleBot(TOKEN)
